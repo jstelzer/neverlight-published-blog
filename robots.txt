@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://moto.neverlight.com/sitemap.xml
