@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://moto.neverlight.com/sitemap.xml
+Sitemap: https://moto.neverlight.com/sitemap.xml

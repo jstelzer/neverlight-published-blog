@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://moto.neverlight.com/</loc>
+        <loc>https://moto.neverlight.com/</loc>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/about/</loc>
+        <loc>https://moto.neverlight.com/about/</loc>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/contact/</loc>
+        <loc>https://moto.neverlight.com/contact/</loc>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/grand-canyon-pa-2019/</loc>
+        <loc>https://moto.neverlight.com/grand-canyon-pa-2019/</loc>
         <lastmod>2019-11-02</lastmod>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/laconia-2017/</loc>
+        <loc>https://moto.neverlight.com/laconia-2017/</loc>
         <lastmod>2017-06-17</lastmod>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/midwest-2019/</loc>
+        <loc>https://moto.neverlight.com/midwest-2019/</loc>
         <lastmod>2019-08-17</lastmod>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/moto-camping-2018/</loc>
+        <loc>https://moto.neverlight.com/moto-camping-2018/</loc>
         <lastmod>2018-05-20</lastmod>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/page/1/</loc>
+        <loc>https://moto.neverlight.com/page/1/</loc>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/page/2/</loc>
+        <loc>https://moto.neverlight.com/page/2/</loc>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/sturgis-2018/</loc>
+        <loc>https://moto.neverlight.com/sturgis-2018/</loc>
         <lastmod>2018-08-05</lastmod>
     </url>
     <url>
-        <loc>http://moto.neverlight.com/tail-of-the-dragon-2016/</loc>
+        <loc>https://moto.neverlight.com/tail-of-the-dragon-2016/</loc>
         <lastmod>2016-05-09</lastmod>
     </url>
 </urlset>
